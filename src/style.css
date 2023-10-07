@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
+
+html {
+  font-family: 'Josefin Slab', serif;
+  background-color: rgb(127, 9, 64);
+  background-image: url(https://static.vecteezy.com/system/resources/previews/013/017/745/original/maroon-and-black-plaid-pattern-background-tartan-fabric-texture-vector.jpg);
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+#content {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(127, 9, 64);
+  width: 60vw;
+  margin: auto;
+  border: 7px black solid;
+  border-radius: 15px;
+}
+
+.head {
+  font-size: 50px;
+}
+
+.main-img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-text {
+  font-size: 25px;
+  margin-top: 30px;
+}

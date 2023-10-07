@@ -1,0 +1,29 @@
+{
+  "name": "restaurant-menu",
+  "version": "1.0.0",
+  "description": "My Odin-Project Restaurant menu project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ReeperC3/Restaurant-menu.git"
+  },
+  "keywords": [
+    "Restaurant"
+  ],
+  "author": "ReeperC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReeperC3/Restaurant-menu/issues"
+  },
+  "homepage": "https://github.com/ReeperC3/Restaurant-menu#readme",
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "file-loader": "^6.2.0",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
